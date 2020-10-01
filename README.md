@@ -23,16 +23,16 @@ The Product Integrity team provides decision making criteria and engineering rec
 ## Requesting Product Integrity Support
 The product integrity program is available to help with any requests to address risks to privacy, security, safety, diversity and inclusion, and environmental sustainability in our products. 
 
-1. Learn More: If you are not sure if your need falls within the scope of product integrity, please refer to the following document.
+1. Learn More: If you are not sure if your need falls within the scope of product integrity, please refer to the following [document](https://docs.google.com/document/d/1clkNScf22kL_UBBXzecnvXw3Nrc_K_LO0w15F3NzVa8/edit).
 
-2. Wholistic evaluation, self-assessment: To establish an initial understanding of where your product/feature falls on the spectrum of product integrity across the five core pillars, you can start with our "Baseline Product Integrity" checklist. If your product/feature scores below a 5/10 on any one of the pillars on the baseline checklist, a pillar deep dive assessment may be requested.
+2. General Product Integrity Evaluation, self-assessment: To establish an initial understanding of where your product/feature falls on the spectrum of product integrity across the five core pillars, you can start with our "Baseline Product Integrity" checklist. If your product/feature scores below a 5/10 on any one of the pillars on the baseline checklist, a pillar deep dive assessment may be requested.
 
 3. Pillar Deep Dive, self-assessment: For a closer look at how your product/feature measures up in a particular area of integrity, you can use our Pillar Deep Dive self-assessment evaluation.
-* Privacy
-* Security
-* Safety
-* Diversity and Inclusion
-* Environmental Sustainability
+    * Privacy
+    * Security
+    * Safety
+    * Diversity and Inclusion
+    * Environmental Sustainability
 
 4. Custom project: If you would like to log a request for a specific product integrity project for your product/feature (generally touching strategy/roadmap decisions), please submit an issue [here](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=prod_integrity_request.md). 
 
@@ -40,6 +40,12 @@ The product integrity program is available to help with any requests to address 
 
 
 ## Product Integrity Process
+
+1. Training 
+2. Toolkit
+3. General integrity self-assessment of product/feature OR integrity team part of conversation and recommend
+3. Depending on self-assessment results, create issues to address problems that surface, use toolkit to figure out how to address
+4. 
 
 ### Templates
 
