@@ -2,11 +2,11 @@
  Central location for product integrity documentation and process.
 
 ## Table of Contents
-#### [Product Integrity Program](#product-integrity-program)
-#### [Requesting Product Integrity Support](#requesting-product-integrity-support)
-#### [Product Integrity Process](#product-integrity-process)
-#### [Diagnostic Tools](#diagnostic-tools)
-#### [Related Resources](#related-resources)
+[Product Integrity Program](#product-integrity-program)
+[Requesting Product Integrity Support](#requesting-product-integrity-support)
+[Product Integrity Process](#product-integrity-process)
+[Diagnostic Tools](#diagnostic-tools)
+[Related Resources](#related-resources)
 
 
 ## Product Integrity Program
