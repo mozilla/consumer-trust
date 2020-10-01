@@ -11,11 +11,25 @@
 
 ## Product Integrity Program
 
+### Mission statement: 
+Enable product development that respects people, communities, and context. 
+
+### Structure: 
+We are a horizontal engineering team, within the Design and People Experiences organization, focused on advancing products that respect people.
+
+### Program Description
+The Product Integrity team provides decision making criteria and engineering recommendations based on user value tradeoffs (related to security, privacy, safety, inclusion, and sustainability) for Mozilla products. This work enables the company to measure how our products are achieving unique differentiation across our manifesto values. The Product Integrity team collaborates closely with our peers in Design and People Experiences, governance teams around the organization, as well as product teams. The team delivers privacy and security solutions using the most cutting edge methods and consults with every product team in the organization as experts in building products that meet the integrity expectations of users.
 
 ## Requesting Product Integrity Support
+The product integrity program is available to help with any requests to address risks to privacy, security, safety, diversity and inclusion, and environmental sustainability in our products. 
+
+If you are not sure if your need falls within the scope of product integrity, please refer to the following document.
+
+If you would like to log a request for what the product integrity program offers, or a specific product integrity project for your product/feature, please submit an issue [here](/.github/ISSUE_TEMPLATE/program_request.md) or [here](/.github/ISSUE_TEMPLATE/prod_integrity_request.md) respectively. 
 
 
 ## Product Integrity Process
+
 ### Templates
 
 
