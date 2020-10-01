@@ -51,9 +51,17 @@ The product integrity program is available to help with any requests to address 
 8. Take learnings and incorporate back into toolkit (continuously updating)
 
 ### Templates
+* Product Integrity Dashboard
+* Diagnostic Results & Recommended Solutions
 
 
 ## Diagnostic Tools
+* General Product Integrity, Self-Assessment
+* Privacy, Self-Assessment
+* Security, Self-Assessment
+* Safety, Self-Assessment
+* Diversity & Inclusion, Self-Assessment
+* Environmental Sustainability
 
 
 ## Related Resources
