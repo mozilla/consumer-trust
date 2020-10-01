@@ -1,7 +1,7 @@
 ---
 name: Program Request 💡
 about: Suggest a new idea or make a request for specific resources.
-labels: enhancement
+labels: zenhub-prod-integrity
 ---
 ## Summary
 Brief explanation of the idea, and how it will help improve the product integrity program.
