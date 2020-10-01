@@ -44,8 +44,11 @@ The product integrity program is available to help with any requests to address 
 1. Training 
 2. Toolkit
 3. General integrity self-assessment of product/feature OR integrity team part of conversation and recommend
-3. Depending on self-assessment results, create issues to address problems that surface, use toolkit to figure out how to address
-4. 
+4. Create issues to address problems that surface
+5. Use toolkit to figure out how to address 
+6. Where toolkit doesn't cover, involve product integrity expert
+7. Product integrity program conducts analytics on who has done self-assessments, # of issues generated, # of issues tackled such that integrity #'s are higher in DASHBOARD for leadership
+8. Take learnings and incorporate back into toolkit (continuously updating)
 
 ### Templates
 
