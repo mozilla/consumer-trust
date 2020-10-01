@@ -58,5 +58,5 @@ The product integrity program is available to help with any requests to address 
 
 ## Related Resources
 
-[Glossary](https://docs.google.com/document/d/154UATW0EzRaA1U-26-6P-hvc_UsI1PDcDMpU0VIVAO4/edit)
-[Resource List](https://docs.google.com/document/d/1dKmd2o5yr2LlfT69c5TPLNjOil2J7dLM47bg6xQELbo/edit#)
+**[Glossary](https://docs.google.com/document/d/154UATW0EzRaA1U-26-6P-hvc_UsI1PDcDMpU0VIVAO4/edit)
+**[Resource List](https://docs.google.com/document/d/1dKmd2o5yr2LlfT69c5TPLNjOil2J7dLM47bg6xQELbo/edit#)
