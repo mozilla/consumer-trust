@@ -25,7 +25,7 @@ The product integrity program is available to help with any requests to address 
 
 If you are not sure if your need falls within the scope of product integrity, please refer to the following document.
 
-If you would like to log a request for what the product integrity program offers, or a specific product integrity project for your product/feature, please submit an issue [here](/.github/ISSUE_TEMPLATE/program_request.md) or [here](/.github/ISSUE_TEMPLATE/prod_integrity_request.md) respectively. 
+If you would like to log a request for what the product integrity program offers, or a specific product integrity project for your product/feature, please submit an issue [here](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=program_request.md) or [here](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=prod_integrity_request.md) respectively. 
 
 
 ## Product Integrity Process
