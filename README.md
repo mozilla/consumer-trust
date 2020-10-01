@@ -57,10 +57,10 @@ The product integrity program is available to help with any requests to address 
 
 ## Diagnostic Tools
 * General Product Integrity, Self-Assessment
-* Privacy, Self-Assessment
-* Security, Self-Assessment
-* Safety, Self-Assessment
-* Diversity & Inclusion, Self-Assessment
+* Privacy
+* Security
+* Safety
+* Diversity & Inclusion
 * Environmental Sustainability
 
 
