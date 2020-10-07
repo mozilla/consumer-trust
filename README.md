@@ -1,8 +1,8 @@
 # Product Integrity at Mozilla
 
-🚧 Please be aware this page is under construction! Please contact Nicole or submit an issue if you have feedback or ideas. 🚧
+Central location for product integrity documentation and process.
 
- Central location for product integrity documentation and process.
+🚧 Please be aware this page is under construction! Please contact Nicole or submit an issue if you have feedback or ideas. 🚧
 
 ## Table of Contents
 1. [Product Integrity Program](#product-integrity-program)
