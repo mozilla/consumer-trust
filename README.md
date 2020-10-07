@@ -18,7 +18,12 @@ Enable product development that respects people, communities, and context.
 We are a horizontal engineering team focused on advancing products that respect people.
 
 ### Program Description
-The Product Integrity team provides decision making criteria and engineering recommendations based on user value tradeoffs (related to privacy, security, safety, inclusion, and sustainability) for Mozilla products. This work enables the company to measure how our products are achieving unique differentiation across our manifesto values. The Product Integrity team collaborates closely with our peers in Design and People Experiences, governance teams around the organization, as well as product teams. The team delivers privacy and security solutions using the most cutting edge methods and consults with every product team in the organization as experts in building products that meet the integrity expectations of users.
+The Product Integrity team provides decision making criteria and engineering recommendations based on user value tradeoffs (related to privacy, security, safety, inclusion, and sustainability) for Mozilla products. 
+
+This work enables the company to measure how our products are achieving unique differentiation across our manifesto values. The Product Integrity team collaborates closely with our peers in Design and People Experiences, governance teams around the organization, as well as product teams. 
+
+The team delivers privacy and security solutions using the most cutting edge methods and consults with every product team in the organization as experts in building products that meet the integrity expectations of users.
+To learn more about the Product Integrity program at Mozilla, please check out our strategy deck [here](https://docs.google.com/presentation/d/1wNT9Y-ZFO98pqq5q9ejaPRuUm_Fh6OKtX276dWqeyRc/edit#slide=id.p).
 
 ## Requesting Product Integrity Support
 The product integrity program is available to help with any requests to address risks to privacy, security, safety, diversity and inclusion, and environmental sustainability in our products. 
