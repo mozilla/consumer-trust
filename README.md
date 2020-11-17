@@ -31,7 +31,7 @@ To learn more about the Product Integrity program at Mozilla, please check out o
 ## Requesting Product Integrity Support
 The product integrity program is available to help with any requests to address risks to privacy, security, safety, diversity and inclusion, and environmental sustainability in our products. 
 
-1. Learn More: If you are not sure if your need falls within the scope of product integrity, please refer to the following [document](https://docs.google.com/document/d/1clkNScf22kL_UBBXzecnvXw3Nrc_K_LO0w15F3NzVa8/edit).
+1. Learn More: To learn more about product integrity at Mozilla and the pillars we are focused on in 2021, please check out our [Product Integrity Toolkit](https://docs.google.com/document/d/18xovkB3FekEVFsClsastRHLeFUyvkEgE03zkQgIOQvg/edit#heading=h.kfry9gfcs7el).
 
 2. General Product Integrity Evaluation, self-assessment: To establish an initial understanding of where your product/feature falls on the spectrum of product integrity across the five core pillars, you can start with our "Baseline Product Integrity" checklist. If your product/feature scores below a 5/10 on any one of the pillars on the baseline checklist, a pillar deep dive assessment may be requested.
 
