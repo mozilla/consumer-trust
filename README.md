@@ -4,53 +4,22 @@ At Mozilla, we work across product, law, policy, and ethics to design and develo
 
 Beyond words, public statements, or corporate missions - we believe in demonstrating our commitment to ethics through a measurable and systematic approach to integrity in our products from start to finish. That's why we are creating a program that touches every product at Mozilla and provides a readable integrity summary. This integrity summary will include examples of how we incorporated our main pillars of integrity - privacy, security, safety, inclusion, and sustainability - in our products, and opportunities for creators and consumers to learn from and provide input on those decisions.
 
-The ethical challenges that face internet technologies today are complex and intertwined, and no one expert or organization knows all the answers. So we decided to do what we do best - open source the work we've done to understand the problems and ways to address them. We want to work together with YOU our brilliant community of creators, contributors, and consumers of our products, to do better for us all.
+The ethical challenges that face internet technologies today are complex and intertwined, and no one expert or organization knows all the answers. So we decided to do what we do best - open source the work we've done in this program to understand the problems and ways to address them. We want to work together with YOU our brilliant community of creators, contributors, and consumers of our products, to do better for us all.
 
-We are focused on five pillars of integrity in our products: privacy, security, safety, inclusion, and sustainability. 
+Check out our toolkit and provide feedback!
 
 
 ## Table of Contents
-1. [mission](#mission-why-we-work)
-2. [program](#program)
-3. [process](#process)
-4. [tools](#tools)
-5. [resources](#resources)
-
-
-### mission: why we work
-Advances Mozilla’s mission to build a better internet by providing support for product design and development that respects people, communities, and context. 
-
-### structure: how we work 
-We are a horizontal engineering team focused on advancing products that respect people.
-
-### description: what we do
-The experience integrity team provides decision making criteria and engineering recommendations based on user value tradeoffs (related to privacy, security, safety, inclusion, and sustainability) for Mozilla products. 
-
-This work enables the company to measure how our products are achieving unique differentiation across our manifesto values. The integrity team collaborates closely with our peers in design and research, governance teams around the organization, as well as product teams. 
-
-The team delivers privacy and security solutions using cutting edge methods and consults with every product team in the organization as experts in building products that meet the integrity expectations of users.
-To learn more about the experience integrity program at Mozilla, please check out our strategy deck [here](https://docs.google.com/presentation/d/1_PcTB0kaJ6Ud612JTw-Yen0QI43NomonYFQdn336UkY/edit#slide=id.gafe21ebcbd_0_1170).
+1. [program](#program)
+2. [tools](#tools)
+3. [resources](#resources)
 
 ## program
-The experience integrity program is available to help with requests to address risks to privacy, security, safety, inclusion, and sustainability in our products. 
+The integrity program at Mozilla consists of two main elements: 
 
-1. Learn More: To learn more about Mozilla's framework for building ethical products, check out (and contribute to!) our [experience integrity toolkit]. 
+1) a semi-automated process in which product researchers, designers, engineers, and managers are empowered to use our resources and process to run integrity evaluations of their product using our set of self-assessment tools (toolkit, checklist, resources).
 
-2. self-assess, general: To establish an initial understanding of where your product/feature falls on the spectrum of integrity across the five core pillars, you can start with our baseline checklist. If your product/feature scores below a 5/10 on any one of the pillars on the baseline checklist, a pillar deep dive assessment may be requested.
-
-3. self-assess, pillar deep dive: For a closer look at how your product/feature measures up in a particular area of integrity, you can use our Pillar Deep Dive self-assessment evaluation.
-    * Privacy
-    * Security
-    * Safety
-    * Inclusion
-    * Sustainability
-
-4. custom project: If you would like to log a request for a specific integrity project for your product/feature (generally touching strategy/roadmap decisions), please submit an issue [here](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=prod_integrity_request.md). 
-
-5. program idea/request: For ideas about how to make the experience integrity program better, please add issues using the following [template](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=program_request.md).
-
-
-## process
+2) For complex challenges, product decisions, and ongoing program resource updates, the integrity program is made up of a team of ethical tech experts, maintains active communities with interested consumers, creators, and community members, as well as regular consultations with the integrity advisory council, made up of subject matter experts in related areas.
 
 ### self-assess
 Use and contribute to our set of easy access resources built to serve internal and external product creators from product owners to user researchers.
