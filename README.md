@@ -44,18 +44,9 @@ For teams or product creators external to Mozilla and interested in the integrit
 If you would like to be a participant in integrity at Mozilla, please get in touch! For those who are already Mozillians, become a part of our products for people advocacy group. For those external to the Mozilla community, consider tuning in or joining our advisory council of external experts.
 
 
-### templates
-* Product Integrity Dashboard
-* Diagnostic Results & Recommended Solutions
-
-
-## diagnostic Tools
-* Self-Assessment
-* Privacy
-* Security
-* Safety
-* Diversity & Inclusion
-* Environmental Sustainability
+## tools
+* toolkit
+* self-assessment
 
 
 ## resources
