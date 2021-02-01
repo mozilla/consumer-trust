@@ -1,22 +1,19 @@
-# experience integrity at Mozilla
+# building products and services with integrity
 
-Central location for experience integrity documentation and process.
+At Mozilla, we work across product, law, policy, and ethics to design and develop ethical and humane products that help users succeed and uphold basic human rights in societies around the world.
+
+This is how we build a better internet: by creating products that (1) amplify the good, promoting greater individual autonomy and agency over digital experiences and (2) filter out the bad by actively combatting pervasive harmful practices, such as surveillance, data extraction, and manipulation. 
+
+We are focused on five pillars of integrity in our products: privacy, security, safety, inclusion, and sustainability. 
 
 
 ## Table of Contents
-1. [experience integrity](#experience-integrity-@-mozilla)
+1. [mission](#mission-why-we-work)
 2. [program](#program)
 3. [process](#process)
 4. [tools](#tools)
 5. [resources](#resources)
 
-
-## experience integrity @ mozilla
-Often referred to as trust, safety, corporate responsibility, or values in action, experience integrity at Mozilla is work across product, law, policy, and ethics to design and develop ethical and humane products that help users succeed and uphold basic human rights in societies around the world.
-
-This is how we build a better internet: by creating products that (1) amplify the good, promoting greater individual autonomy and agency over digital experiences and (2) filter out the bad by actively combatting pervasive harmful practices, such as surveillance, data extraction, and manipulation. 
-
-We are focused on five pillars of integrity in our products: privacy, security, safety, inclusion, and sustainability. 
 
 ### mission: why we work
 Advances Mozilla’s mission to build a better internet by providing support for product design and development that respects people, communities, and context. 
@@ -37,18 +34,18 @@ The experience integrity program is available to help with requests to address r
 
 1. Learn More: To learn more about Mozilla's framework for building ethical products, check out (and contribute to!) our [experience integrity toolkit]. 
 
-2. experience integrity, self-assessment: To establish an initial understanding of where your product/feature falls on the spectrum of integrity across the five core pillars, you can start with our baseline checklist. If your product/feature scores below a 5/10 on any one of the pillars on the baseline checklist, a pillar deep dive assessment may be requested.
+2. self-assess, general: To establish an initial understanding of where your product/feature falls on the spectrum of integrity across the five core pillars, you can start with our baseline checklist. If your product/feature scores below a 5/10 on any one of the pillars on the baseline checklist, a pillar deep dive assessment may be requested.
 
-3. pillar deep dive, self-assessment: For a closer look at how your product/feature measures up in a particular area of integrity, you can use our Pillar Deep Dive self-assessment evaluation.
+3. self-assess, pillar deep dive: For a closer look at how your product/feature measures up in a particular area of integrity, you can use our Pillar Deep Dive self-assessment evaluation.
     * Privacy
     * Security
     * Safety
     * Inclusion
     * Sustainability
 
-4. Custom project: If you would like to log a request for a specific integrity project for your product/feature (generally touching strategy/roadmap decisions), please submit an issue [here](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=prod_integrity_request.md). 
+4. custom project: If you would like to log a request for a specific integrity project for your product/feature (generally touching strategy/roadmap decisions), please submit an issue [here](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=prod_integrity_request.md). 
 
-5. Program idea/request: For ideas about how to make the experience integrity program better, please add issues using the following [template](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=program_request.md).
+5. program idea/request: For ideas about how to make the experience integrity program better, please add issues using the following [template](https://github.com/nshadowen314/product-integrity/issues/new?labels=zenhub-prod-integrity&template=program_request.md).
 
 
 ## process
