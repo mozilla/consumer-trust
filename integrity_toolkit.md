@@ -2,7 +2,7 @@
 
 The integrity toolkit is a high level framework for product creators to design and develop ethical products that help users succeed and uphold basic human rights in societies around the world. This is how we build a better internet: by creating products that (1) amplify the good, promoting greater individual autonomy and agency over digital experiences and (2) filter out the bad by actively combatting pervasive harmful practices, such as surveillance, data extraction, and manipulation. 
 
-We are focused on five pillars of integrity in our products: privacy, security, safety, inclusion, and sustainability. Basic descriptions, best praactices, and key resources are outlined for each pillar below. For a more detailed, action oriented resource about *how* to apply these best practices in product design and development, check out our self-assessment checklist.
+We are focused on five pillars of integrity in our products: privacy, security, safety, inclusion, and sustainability. Basic descriptions, best praactices, and key resources are outlined for each pillar below. For a more detailed, action-oriented resource about *how* to apply these best practices in product design and development, check out our self-assessment checklist.
 
 For more information about the integrity program, check out the [README](https://github.com/MozillaDPX/integrity).
 
