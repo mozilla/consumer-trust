@@ -2,7 +2,9 @@
 
 At Mozilla, we work across product, law, policy, and ethics to design and develop ethical products that help people succeed and uphold basic human rights in societies around the world.
 
-This is how we build a better internet: by creating products that (1) amplify the good, promoting greater individual autonomy and agency over digital experiences and (2) filter out the bad by actively combatting pervasive harmful practices, such as surveillance, data extraction, and manipulation. 
+Beyond words, public statements, or corporate missions - we believe in demonstrating our commitment to ethics through a measurable and systematic approach to integrity in our products from start to finish. That's why we are creating a program that touches every product at Mozilla and provides a readable integrity summary. This integrity summary will include examples of how we incorporated privacy, security, safety, inclusion, and sustainability in our products, and opportunities for creators and consumers to learn from and provide input on those decisions.
+
+The ethical challenges that face internet technologies today are complex and intertwined, and no one expert or organization knows all the answers. So we decided to do what we do best - open source the work we've done to understand the problems and ways to address them. We want to work together with YOU our brilliant community of creators, contributors, and consumers of our products, to do better for us all.
 
 We are focused on five pillars of integrity in our products: privacy, security, safety, inclusion, and sustainability. 
 
