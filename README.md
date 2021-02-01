@@ -30,7 +30,7 @@ Use and contribute to our set of easy access resources built to serve internal a
 2. self-assessment checklist
 <br>Baseline checklist for primary product stakeholders: product owners, designers, user researchers, and engineers.
 
-3. [resource repository](https://www.zotero.org/groups/2695011/experience_integrity_public/library){:target="_blank"}
+3. [resource repository](https://www.zotero.org/groups/2695011/experience_integrity_public/library target="_blank")
 <br>Dynamic database of integrity related resources including industry guidelines, government regulations/frameworks, and academic research.
 
 ### consult
