@@ -4,8 +4,8 @@ Central location for experience integrity documentation and process.
 
 
 ## Table of Contents
-1. [program](#experience-integrity-@-mozilla)
-2. [support](#support)
+1. [experience integrity](#experience-integrity-@-mozilla)
+2. [program](#program)
 3. [process](#process)
 4. [tools](#tools)
 5. [resources](#resources)
@@ -32,14 +32,14 @@ This work enables the company to measure how our products are achieving unique d
 The team delivers privacy and security solutions using cutting edge methods and consults with every product team in the organization as experts in building products that meet the integrity expectations of users.
 To learn more about the experience integrity program at Mozilla, please check out our strategy deck [here](https://docs.google.com/presentation/d/1_PcTB0kaJ6Ud612JTw-Yen0QI43NomonYFQdn336UkY/edit#slide=id.gafe21ebcbd_0_1170).
 
-## support
-The product integrity program is available to help with requests to address risks to privacy, security, safety, inclusion, and sustainability in our products. 
+## program
+The experience integrity program is available to help with requests to address risks to privacy, security, safety, inclusion, and sustainability in our products. 
 
-1. Learn More: To learn more about expeirence integrity at Mozilla and the pillars we are focused on in 2021, please check out our [integrity toolkit](https://docs.google.com/document/d/18xovkB3FekEVFsClsastRHLeFUyvkEgE03zkQgIOQvg/edit#heading=h.kfry9gfcs7el).
+1. Learn More: To learn more about Mozilla's framework for building ethical products, check out (and contribute to!) our [experience integrity toolkit]. 
 
 2. experience integrity, self-assessment: To establish an initial understanding of where your product/feature falls on the spectrum of integrity across the five core pillars, you can start with our baseline checklist. If your product/feature scores below a 5/10 on any one of the pillars on the baseline checklist, a pillar deep dive assessment may be requested.
 
-3. Pillar Deep Dive, self-assessment: For a closer look at how your product/feature measures up in a particular area of integrity, you can use our Pillar Deep Dive self-assessment evaluation.
+3. pillar deep dive, self-assessment: For a closer look at how your product/feature measures up in a particular area of integrity, you can use our Pillar Deep Dive self-assessment evaluation.
     * Privacy
     * Security
     * Safety
