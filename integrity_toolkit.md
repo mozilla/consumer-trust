@@ -65,9 +65,9 @@ We strongly encourage thinking about security at the different stages of life of
 8. Reach out for support to your security team.
 
 #### key resources
-[Web Security Guidelines](https://infosec.mozilla.org/guidelines/web_security.html)
-[Rapid Risk Assessment](https://infosec.mozilla.org/guidelines/risk/rapid_risk_assessment)
-[Mozilla Security Principles](https://infosec.mozilla.org/fundamentals/security_principles.html)
+* [Web Security Guidelines](https://infosec.mozilla.org/guidelines/web_security.html)
+* [Rapid Risk Assessment](https://infosec.mozilla.org/guidelines/risk/rapid_risk_assessment)
+* [Mozilla Security Principles](https://infosec.mozilla.org/fundamentals/security_principles.html)
 
 ## safety
 
