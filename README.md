@@ -24,7 +24,7 @@ The integrity program at Mozilla consists of two main elements:
 ### self-assess
 Use and contribute to our set of easy access resources built to serve internal and external product creators from product owners to user researchers.
 
-1. toolkit
+1. [toolkit](https://github.com/MozillaDPX/integrity/blob/master/integrity_toolkit.md)
 <br>High level framework for shared terminology, standard best practices, and key resources for experience integrity across Mozilla products.
 
 2. self-assessment checklist
@@ -45,7 +45,7 @@ If you would like to be a participant in integrity at Mozilla, please get in tou
 
 
 ## tools
-* toolkit
+* [toolkit](https://github.com/MozillaDPX/integrity/blob/master/integrity_toolkit.md)
 * self-assessment
 
 
