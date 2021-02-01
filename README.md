@@ -1,4 +1,4 @@
-# Experience Integrity at Mozilla
+# experience integrity at Mozilla
 
 Central location for experience integrity documentation and process.
 
