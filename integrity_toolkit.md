@@ -41,6 +41,36 @@ People’s ability to trust the platforms they use online without the burden of 
 * [Mozilla Data Privacy Principles](https://www.mozilla.org/en-US/privacy/principles/)
 * [General Data Protections Regulation (EU)](https://gdpr-info.eu/)
 
+### security
+Product security is about providing a trustworthy and reliable product, by limiting the risks our users and the business could face should something go wrong.
+
+At Mozilla, we use the following concepts to think about security and risk:
+* Confidentiality: sensitive user information and product assets (such as accounts credentials, secret API keys) are kept private and are protected appropriately against unauthorized access.
+* Integrity: the software, services and information we deliver to consumers are reliable, trustworthy and protected against malicious attempts at modifying it.
+* Availability: we deliver a continuity of service and we design it so that it doesn’t put users at a greater risk in a case it is down, by informing them or offering an alternative.
+
+Security can be assessed with different and complementary aspects in mind such as the impact on the people who use our products, as well as business imperatives such as reputation of the company, productivity and finances.
+
+#### best practices
+We strongly encourage thinking about security at the different stages of life of the product/service: design and implementation of a new service or product, significant architecture changes and new features, maintenance.
+
+1. KISS: Keep it simple and thus secure.
+2. Apply the Principle of least privilege.
+3. Design your product keeping Defense In Depth principles in mind.
+4. Think about what could go wrong in the worst case scenario and do some threat modeling (see self-assessment Security section for more detailed guidelines).
+5. Provide a medium to report and manage product security issues, fraud, and abuse.
+6. Communicate security fixes transparently (e.g. product security advisories)
+7. Monitor security fixes to third-party libraries to apply relevant security patches in the product in a timely manner.
+8. Reach out for support to your security team.
+
+#### key resources
+[Web Security Guidelines](https://infosec.mozilla.org/guidelines/web_security.html)
+[Rapid Risk Assessment](https://infosec.mozilla.org/guidelines/risk/rapid_risk_assessment)
+[Mozilla Security Principles](https://infosec.mozilla.org/fundamentals/security_principles.html)
+
+## safety
+
+
 
 
 
