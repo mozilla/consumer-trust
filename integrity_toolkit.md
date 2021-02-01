@@ -9,12 +9,13 @@ For more information about the integrity program, check out the [README](https:/
 
 
 ## using the toolkit
-If you are new to the experience integrity program at Mozilla and/or trying to learn more, you may find it useful to read through the toolkit in its entirety. For readers with specific questions about one of the pillars, you can find high level descriptions, best practices, and useful resources for each area of experience integrity below (pillars are in no particular priority order). If you are a product owner, designer, or developer, you can use the experience integrity self-assessment (built on top of this toolkit) for a more direct approach in applying these principles in practice.
-    Privacy
-    Security
-    Safety
-    Inclusion
-    Sustainability
+If you are new to the experience integrity program at Mozilla and/or trying to learn more, you may find it useful to read through the toolkit in its entirety. 
+
+For readers with specific questions about one of the pillars, you can find high level descriptions, best practices, and useful resources for each area of experience integrity below (pillars are in no particular priority order). 
+
+If you are a product owner, designer, or developer, you can use the experience integrity self-assessment (built on top of this toolkit) for a more direct approach in applying these principles in practice.
+
+* [privacy](#privacy)
 
 ### Privacy
 In the tech industry, privacy is often used as a synonym for data protection. However, at Mozilla, privacy goes beyond data access and manipulation. Not only do we consider the consequences of providing increasingly integrated tools for people in their lives; we thoughtfully consider the impacts of product decisions on the people and creators who use them through privacy by design.
