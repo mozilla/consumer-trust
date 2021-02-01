@@ -5,7 +5,7 @@ Central location for experience integrity documentation and process.
 🚧 Please be aware this page is under construction! Please contact Nicole or submit an issue if you have feedback or ideas. 🚧
 
 ## Table of Contents
-1. [experience integrity](#product-integrity-program)
+1. [program](#product-integrity-program)
 2. [support](#requesting-product-integrity-support)
 3. [process](#product-integrity-process)
 4. [tools](#diagnostic-tools)
