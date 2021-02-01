@@ -53,7 +53,7 @@ The product integrity program is available to help with requests to address risk
 
 ## process
 
-### Self-assess
+### self-assess
 Use and contribute to our set of easy access resources built to serve internal and external product creators from product owners to user researchers.
 
 1. toolkit
@@ -65,7 +65,7 @@ Baseline checklist for primary product stakeholders: product owners, designers, 
 3. [resource repository](https://www.zotero.org/groups/2695011/experience_integrity_public/library)
 Dynamic database of integrity related resources including industry guidelines, government regulations/frameworks, and academic research.
 
-### Consult
+### consult
 For internal teams at Mozilla, the experience integrity team is available to support in investigating product integrity needs that: 
 * are not met through self-assessment process 
 * product teams are not able to complete themselves 
@@ -76,12 +76,12 @@ For teams or product creators external to Mozilla and interested in the integrit
 If you would like to be a participant in integrity at Mozilla, please get in touch! For those who are already Mozillians, become a part of our products for people advocacy group. For those external to the Mozilla community, consider tuning in or joining our advisory council of external experts.
 
 
-### Templates
+### templates
 * Product Integrity Dashboard
 * Diagnostic Results & Recommended Solutions
 
 
-## Diagnostic Tools
+## diagnostic Tools
 * Self-Assessment
 * Privacy
 * Security
@@ -90,7 +90,7 @@ If you would like to be a participant in integrity at Mozilla, please get in tou
 * Environmental Sustainability
 
 
-## Related Resources
+## resources
 
 * [Resource List](https://www.zotero.org/groups/2695011/experience_integrity_public/library)
 * [Glossary](https://docs.google.com/document/d/154UATW0EzRaA1U-26-6P-hvc_UsI1PDcDMpU0VIVAO4/edit)
