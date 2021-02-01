@@ -25,13 +25,13 @@ The integrity program at Mozilla consists of two main elements:
 Use and contribute to our set of easy access resources built to serve internal and external product creators from product owners to user researchers.
 
 1. toolkit
-High level framework for shared terminology, standard best practices, and key resources for experience integrity across Mozilla products.
+<br>High level framework for shared terminology, standard best practices, and key resources for experience integrity across Mozilla products.
 
 2. self-assessment checklist
-Baseline checklist for primary product stakeholders: product owners, designers, user researchers, and engineers.
+<br>Baseline checklist for primary product stakeholders: product owners, designers, user researchers, and engineers.
 
 3. [resource repository](https://www.zotero.org/groups/2695011/experience_integrity_public/library)
-Dynamic database of integrity related resources including industry guidelines, government regulations/frameworks, and academic research.
+<br>Dynamic database of integrity related resources including industry guidelines, government regulations/frameworks, and academic research.
 
 ### consult
 For internal teams at Mozilla, the experience integrity team is available to support in investigating product integrity needs that: 
