@@ -20,6 +20,8 @@ If you are a product owner, designer, or developer, you can use the experience i
 * [inclusion](#inclusion)
 * [sustainability](#sustainability)
 
+## integrity  pillars
+
 ### privacy
 In the tech industry, privacy is often used as a synonym for data protection. However, at Mozilla, privacy goes beyond data access and manipulation. Not only do we consider the consequences of providing increasingly integrated tools for people in their lives; we thoughtfully consider the impacts of product decisions on the people and creators who use them through privacy by design.
 
