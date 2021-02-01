@@ -34,10 +34,10 @@ People’s ability to trust the platforms they use online without the burden of 
 6. responsible data collection
 
 #### key resources
-[Mozilla Lean Data Toolkit](https://docs.google.com/document/d/1TJafYmeFT3LIQe6YPLEHWwh37PGbK2RunntDIaN2lL8/edit)
-[Mozilla Data Stewardship](https://wiki.mozilla.org/Firefox/Data_Collection)
-[Mozilla Data Privacy Principles](https://www.mozilla.org/en-US/privacy/principles/)
-[General Data Protections Regulation (EU)](https://gdpr-info.eu/)
+* [Mozilla Lean Data Toolkit](https://docs.google.com/document/d/1TJafYmeFT3LIQe6YPLEHWwh37PGbK2RunntDIaN2lL8/edit)
+* [Mozilla Data Stewardship](https://wiki.mozilla.org/Firefox/Data_Collection)
+* [Mozilla Data Privacy Principles](https://www.mozilla.org/en-US/privacy/principles/)
+* [General Data Protections Regulation (EU)](https://gdpr-info.eu/)
 
 
 
