@@ -16,12 +16,12 @@ If you are new to the experience integrity program at Mozilla and/or trying to l
     Inclusion
     Sustainability
 
-###Privacy
+### Privacy
 In the tech industry, privacy is often used as a synonym for data protection. However, at Mozilla, privacy goes beyond data access and manipulation. Not only do we consider the consequences of providing increasingly integrated tools for people in their lives; we thoughtfully consider the impacts of product decisions on the people and creators who use them through privacy by design.
 
 People’s ability to trust the platforms they use online without the burden of feeling or being observed can impact how they learn, think, and express themselves. Many scholars believe freedom from surveillance serves as a fundamental tenet to a democratic, free-thinking society. Oftentimes, information about the people using a product is necessary for it to best serve their needs, and therefore trust and lean data collection are tools to meet people’s expectations from usefulness to ownership of their experience. [1, 2]
 
-####Best practices
+#### Best practices
 1. Embed privacy by design
 2. Ensure privacy by default
 3. protect personal identity and information
