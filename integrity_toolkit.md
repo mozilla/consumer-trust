@@ -1,6 +1,6 @@
-# experience integrity toolkit
+# integrity toolkit
 
-## experience integrity @ Mozilla
+## integrity @ Mozilla
 Often referred to as trust, safety, corporate responsibility, or values in action, experience integrity at Mozilla refers to work across product, law, policy, and ethics to design and develop ethical and humane products that help users succeed and uphold the basic human rights of every individual in societies around the globe. This is how we build a better internet: by creating products that (1) amplify the good, promoting greater individual autonomy and agency over digital experiences and (2) filter out the bad by actively combatting pervasive harmful practices, such as surveillance, data extraction, and manipulation. 
 
 We are focused on five pillars of integrity in our products: privacy, security, safety, inclusion, and sustainability. These pillars are covered in depth in this toolkit below.
