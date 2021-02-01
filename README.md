@@ -4,11 +4,11 @@ Central location for experience integrity documentation and process.
 
 
 ## Table of Contents
-1. [program](#product-integrity-program)
-2. [support](#requesting-product-integrity-support)
-3. [process](#product-integrity-process)
-4. [tools](#diagnostic-tools)
-5. [resources](#related-resources)
+1. [program](#experience-integrity-@-mozilla)
+2. [support](#support)
+3. [process](#process)
+4. [tools](#tools)
+5. [resources](#resources)
 
 
 ## experience integrity @ mozilla
