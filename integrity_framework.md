@@ -94,10 +94,38 @@ When we speak about inclusivity at Mozilla, we are speaking of groups diverse ac
 * Gender
 * Disability
 * Age
-* Sexual orientation - LGBTQA+
+* LGBTQIA+
 * National origin
 
 #### best practices
+1. Incorporate the voices of marginalized groups at every stage of design and development
+2. Provide agency
+3. Diversify teams
+4. "Nothing for us without us"
+5. Implement de-biasing methodologies
+
+#### key resources
+* [Mozilla Accessibility Release Guidelines](https://wiki.mozilla.org/Accessibility/Guidelines)
+* [Accessibility at Mozilla](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+* [Decolonising Design](https://www.decolonisingdesign.com/)
+
+## sustainability
+The internet is a powerful enabler of sustainability and a major contributor of greenhouse gas (GHG) emissions that are fueling the climate crisis. The internet is also core to Mozilla’s business. As an organization that aspires to positively impact the lives of humans and our planet, we must account for the effect our products and technologies have on our environment. 
+
+Sustainability at Mozilla focuses on three core values: social connection, economic well-being, and healthy environment. We can implement sustainability in our design and development processes by being good stewards of the online environment. We can start with the following best practices.
+
+#### best practices (adapted from [sustainable web manifesto](https://www.sustainablewebmanifesto.com/))
+1. Clean: use renewable energy to power products whenever possible
+2. Efficient: use the least amount of energy and material resources possible
+3. Open: create accessible products and services 
+4. Honest: do not mislead or exploit the people who use your products
+5. Regenerative: consider how the product fosters an economy that nourishes people and planet
+6. Resilient: make sure your products and services function for people
+
+#### key resources
+* [Sustainability at Mozilla](https://wiki.mozilla.org/Projects/Sustainability)
+* [Sustainable web manifesto](https://www.sustainablewebmanifesto.com/)
+* [Low impact website manifesto](https://lowimpact.organicbasics.com/eur#manifesto)
 
 
 
