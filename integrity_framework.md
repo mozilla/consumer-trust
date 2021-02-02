@@ -127,7 +127,7 @@ Sustainability at Mozilla focuses on three core values: social connection, econo
 * [Low impact website manifesto](https://lowimpact.organicbasics.com/eur#manifesto)
 
 
-<br><br>The integrity toolkit is thanks in LARGE part to my incredible colleagues and friends in the space who helped to refine the draft. Thanks to everyone who contributed to this document! Please feel free to add your names here if you would like to be credited publicly. 
+<br><br>The integrity toolkit is thanks in LARGE part to my incredible colleagues and friends in this space who helped to refine it. Thanks to everyone who contributed to this document! Please feel free to add your names here if you would like to be credited publicly. 
 
 Contributors: 
 * [@nshadowen314](https://github.com/nshadowen314)
