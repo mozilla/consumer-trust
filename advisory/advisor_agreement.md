@@ -3,7 +3,7 @@
 Thank you for deciding to be an advisor for the Mozilla integrity program! We are excited to embark on a journey of mutual benefit in our mission to build a better internet by creating ethical products.
 
 By being an advisor with our integrity program you are agreeing to the following: 
-1. Attendance at 3 out of 4 quarterly advisor gatherings (2 hours long) 
+1. Attendance at 3 out of 4 quarterly [advisor gatherings](#integrity-advisory-council-gatherings)
 2. 
 
 
