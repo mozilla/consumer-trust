@@ -8,9 +8,9 @@ By being an advisor with our integrity program you are agreeing to the following
 
 
 #### Integrity advisory council gatherings
-Quarterly, 2 hour long gatherings during which integrity lead will provide an update on integrity at Mozilla, questions for the group, and ideas for incorporating ethics into product development. 
+Quarterly, 2 hour long gatherings during which integrity lead will provide an update on integrity at Mozilla, questions for the group, and information exchange for incorporating ethics into product development. 
 
-<br>Dates for 2021:
+Dates for 2021:
 * Tuesday March 30, 2021
 * Tuesday June 29, 2021
 * Tuesday September 28, 2021
