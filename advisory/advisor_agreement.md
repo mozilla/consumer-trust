@@ -4,7 +4,7 @@ Thank you for deciding to be an advisor for the Mozilla integrity program! We ar
 
 By being an advisor with our integrity program you are agreeing to the following: 
 1. Attendance at 3 out of 4 quarterly [advisor gatherings](#integrity-advisory-council-gatherings)
-2. Receiving bi-annual [advisory report](#bi-annual-integrity-advisory-report) on Mozilla's progress in ethical product design and development
+2. Be highlighted in and receive bi-annual [advisory report](#bi-annual-integrity-advisory-report) on Mozilla's progress in ethical product design and development
 3. Providing your expertise, perspective, and open-minded presence 
 4. Year long commitment (must take at least a year off in between so that we have diverse representation)
 
