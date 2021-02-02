@@ -109,7 +109,7 @@ When we speak about inclusivity at Mozilla, we are speaking of groups diverse ac
 * [Decolonising Design](https://www.decolonisingdesign.com/)
 
 ## sustainability
-The internet is a powerful enabler of sustainability and a major contributor of greenhouse gas (GHG) emissions that are fueling the climate crisis. The internet is also core to Mozilla’s business. As an organization that aspires to positively impact the lives of humans and our planet, we must account for the effect our products and technologies have on our environment. 
+The internet is a powerful enabler of sustainability and a major contributor of greenhouse gas (GHG) emissions that are fueling the climate crisis. As an organization that aspires to positively impact the lives of humans and our planet, Mozilla must account for the effect our products and technologies have on our environment. 
 
 Sustainability at Mozilla focuses on three core values: social connection, economic well-being, and healthy environment. We can implement sustainability in our design and development processes by being good stewards of the online environment. We can start with the following best practices.
 
