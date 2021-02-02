@@ -70,6 +70,15 @@ We strongly encourage thinking about security at the different stages of life of
 * [Mozilla Security Principles](https://infosec.mozilla.org/fundamentals/security_principles.html)
 
 ## safety
+The principle of product safety at Mozilla refers to the ways in which a product may be used for abuse or malintent. Oftentimes, it is difficult for product owners, designers, and developers to identify and account for the myriad of ways a product might be used. 
+
+Although aspects of security in product relate to technically keeping product users safe, safety refers to the broader scope of use. For example, someone’s information being kept secure is important because if their location were easily accessible, a bad actor could target them for physical harm. the pursuit of some principles, like safety and privacy, can introduce product development tradeoffs as the maximization of one  necessitates reduction of the other. If a product that completely anonymizes image sharing is private, but can create the potential for networks of criminal activity. 
+
+#### best practices
+1. Establish guidelines for intended safe use 
+2. Provide opportunities for reporting 
+3. Have a plan for content moderation
+
 
 
 
