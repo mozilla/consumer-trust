@@ -9,11 +9,11 @@ For more information about the integrity program, check out the [README](https:/
 
 
 ## using the toolkit
-If you are new to building for integrity in products and/or trying to learn more, you may find it useful to read through the toolkit in its entirety. 
+If you are new to building for integrity in products and/or trying to learn more, you may find it useful to read through the framework in its entirety. 
 
 For readers with specific questions about one of the pillars, you can find high level descriptions, best practices, and useful resources for each area of experience integrity below (pillars are in no particular priority order). 
 
-If you are a product owner, designer, or developer, you can use the experience integrity self-assessment (built on top of this toolkit) for a more direct approach in applying these principles in practice.
+If you are a product owner, designer, or developer, you can use the experience integrity toolkit and self-assessment for a more direct approach in applying these principles in practice.
 
 * [privacy](#privacy)
 * [security](#security)
