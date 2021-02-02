@@ -7,7 +7,7 @@ We are focused on five pillars of integrity in our products: privacy, security, 
 For more information about the integrity program, check out the [README](https://github.com/MozillaDPX/integrity).
 
 
-## using the toolkit
+## using the framework
 If you are new to building for integrity in products and/or trying to learn more, you may find it useful to read through the framework in its entirety. 
 
 For readers with specific questions about one of the pillars, you can find high level descriptions, best practices, and useful resources for each area of experience integrity below (pillars are in no particular priority order). 
