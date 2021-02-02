@@ -1,3 +1,3 @@
 Calling all passionate people who think technology companies can do better! 
 
-We hear you. At Mozilla, we are passionate about building ethical products. The problem with ethics is, the answers aren't always clear. That's why we are looking for people who would like to be a part of our integrity advisory council (on a yearly basis) and contribute to the way we think about and build for ethics in our products.
+We hear you. At Mozilla, we are passionate about building ethical products. The problem with ethics is, the answers aren't always clear. That's why we are looking for people who would like to be a part of our integrity advisory council (on a yearly basis) and contribute to the way we think about and build for ethics in our products. Interested candidates can apply here! 
