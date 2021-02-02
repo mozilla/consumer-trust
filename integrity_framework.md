@@ -24,7 +24,7 @@ If you are a product owner, designer, or developer, you can use the experience i
 ## integrity  pillars
 
 ### privacy
-In the tech, privacy is often used as a synonym for data protection. However, at Mozilla, privacy goes beyond data access and manipulation. Not only do we consider the consequences of providing increasingly integrated tools for people in their lives; we thoughtfully consider the impacts of product decisions on the people and creators who use them through privacy by design.
+In tech, privacy is often used as a synonym for data protection. However, at Mozilla, privacy goes beyond data access and manipulation. Not only do we consider the consequences of providing increasingly integrated tools for people in their lives; we thoughtfully consider the impacts of product decisions on the people and creators who use them through privacy by design.
 
 People’s ability to trust the platforms they use online without the burden of feeling or being observed can impact how they learn, think, and express themselves. Many scholars believe freedom from surveillance serves as a fundamental tenet to a democratic, free-thinking society. Oftentimes, information about the people using a product is necessary for it to best serve their needs, and therefore trust and lean data collection are tools to meet people’s expectations from usefulness to ownership of their experience. [1, 2]
 
@@ -82,9 +82,9 @@ Safety at Mozilla is not just about ensuring privacy and safety for our users wi
 3. Have a plan for content moderation
 
 #### key resources
-[Ethical OS](https://ethicalos.org/)
-<br>[Child Abuse and Neglect Prevention](https://www.cdc.gov/violenceprevention/childabuseandneglect/index.html)
-<br>[National Human Trafficking Hotline](https://humantraffickinghotline.org/)
+* [Ethical OS](https://ethicalos.org/)
+* [Child Abuse and Neglect Prevention](https://www.cdc.gov/violenceprevention/childabuseandneglect/index.html)
+* [National Human Trafficking Hotline](https://humantraffickinghotline.org/)
 
 ## inclusion
 At Mozilla, we are committed to an internet that includes all people in diverse communities collaborating for the common good. Working to employ a diverse and inclusive workforce is a critical element in building more universally conscientious tools. Equally important is an active effort to incorporate inclusive, accessible, and equitable practices into the way that we build and design products. 
