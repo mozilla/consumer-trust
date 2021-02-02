@@ -130,7 +130,7 @@ Sustainability at Mozilla focuses on three core values: social connection, econo
 <br><br>The integrity toolkit is thanks in LARGE part to my incredible colleagues and friends in the space who helped to refine the draft. Thanks to everyone who contributed to this document! Please feel free to add your names here if you would like to be credited publicly. 
 
 Contributors: 
-* @nshadowen314
+* [@nshadowen314](https://github.com/nshadowen314)
 
 
 
