@@ -83,8 +83,21 @@ Safety at Mozilla is not just about ensuring privacy and safety for our users wi
 
 #### key resources
 [Ethical OS](https://ethicalos.org/)
-[Child Abuse and Neglect Prevention](https://www.cdc.gov/violenceprevention/childabuseandneglect/index.html)
-[National Human Trafficking Hotline](https://humantraffickinghotline.org/)
+<br>[Child Abuse and Neglect Prevention](https://www.cdc.gov/violenceprevention/childabuseandneglect/index.html)
+<br>[National Human Trafficking Hotline](https://humantraffickinghotline.org/)
+
+## inclusion
+At Mozilla, we are committed to an internet that includes all people in diverse communities collaborating for the common good. Working to employ a diverse and inclusive workforce is a critical element in building more universally conscientious tools. Equally important is an active effort to incorporate inclusive, accessible, and equitable practices into the way that we build and design products. 
+
+When we speak about inclusivity at Mozilla, we are speaking of groups diverse across (including but not limited to): 
+* Race
+* Gender
+* Disability
+* Age
+* Sexual orientation - LGBTQA+
+* National origin
+
+#### best practices
 
 
 
