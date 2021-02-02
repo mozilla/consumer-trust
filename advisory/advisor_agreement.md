@@ -4,7 +4,7 @@ Thank you for deciding to be an advisor for the Mozilla integrity program! We ar
 
 By being an advisor with our integrity program you are agreeing to the following: 
 1. Attendance at 3 out of 4 quarterly [advisor gatherings](#integrity-advisory-council-gatherings)
-2. Receiving bi-annual advisory report on Mozilla's progress in ethical product design and development
+2. Receiving bi-annual [advisory report](#bi-annual-integrity-advisory-report) on Mozilla's progress in ethical product design and development
 3. Providing your expertise, perspective, and open-minded presence 
 
 To be an advisor, you must not work at Mozilla and have at least one of the following qualifications: 
@@ -12,6 +12,12 @@ To be an advisor, you must not work at Mozilla and have at least one of the foll
 2. at least 5 years experience in work related to product development
 3. unique or distinct personal experience with exclusion or challenges with internet technologies/products
 4. represent historically underserved audience in technology
+
+
+#### Bi-annual integrity advisory report
+* Latest tools
+* Case studies and solutions
+* Highlights from advisors' work
 
 
 #### Integrity advisory council gatherings
@@ -22,3 +28,9 @@ Dates for 2021:
 * Tuesday June 29, 2021
 * Tuesday September 28, 2021
 * Tuesday December 7, 2021
+
+Format: 
+* Advisor update roundtable (30 min)
+* Updates from integrity at Mozilla (includes specific case study examples) (20 min)
+* Questions for discussion (45 min)
+* Open Q&A (25 min)
