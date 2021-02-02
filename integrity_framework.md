@@ -72,12 +72,21 @@ We strongly encourage thinking about security at the different stages of life of
 ## safety
 The principle of product safety at Mozilla refers to the ways in which a product may be used for abuse or malintent. Oftentimes, it is difficult for product owners, designers, and developers to identify and account for the myriad of ways a product might be used. 
 
-Although aspects of security in product relate to technically keeping product users safe, safety refers to the broader scope of use. For example, someone’s information being kept secure is important because if their location were easily accessible, a bad actor could target them for physical harm. the pursuit of some principles, like safety and privacy, can introduce product development tradeoffs as the maximization of one  necessitates reduction of the other. If a product that completely anonymizes image sharing is private, but can create the potential for networks of criminal activity. 
+Although aspects of security in product relate to technically keeping product users safe, safety refers to the broader scope of use. The pursuit of some principles, like safety and privacy, can introduce product development tradeoffs as the maximization of one necessitates reduction of the other. For example, a product that completely anonymizes image sharing is private, but can create the potential for networks of criminal activity. 
+
+Safety at Mozilla is not just about ensuring privacy and safety for our users within our products, but taking a pro-active stand against the malicious use of our products for nefarious purposes like: exploitation and manipulation, corruption, human trafficking, abuse, and harassment. 
 
 #### best practices
 1. Establish guidelines for intended safe use 
-2. Provide opportunities for reporting 
+2. Provide opportunities for reporting
 3. Have a plan for content moderation
+
+#### key resources
+[Ethical OS](https://ethicalos.org/)
+[Child Abuse and Neglect Prevention](https://www.cdc.gov/violenceprevention/childabuseandneglect/index.html)
+[National Human Trafficking Hotline](https://humantraffickinghotline.org/)
+
+
 
 
 
