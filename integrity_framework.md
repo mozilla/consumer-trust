@@ -1,4 +1,3 @@
----- wip -----
 # integrity framework
 
 The integrity framework outlines high level guidelines for product creators to design and develop ethical products that help users succeed and uphold basic human rights in societies around the world. This is how we build a better internet: by creating products that (1) amplify the good, promoting greater individual autonomy and agency over digital experiences and (2) filter out the bad by actively combatting pervasive harmful practices, such as surveillance, data extraction, and manipulation. 
@@ -128,6 +127,10 @@ Sustainability at Mozilla focuses on three core values: social connection, econo
 * [Low impact website manifesto](https://lowimpact.organicbasics.com/eur#manifesto)
 
 
+The integrity toolkit is thanks in LARGE part to my incredible colleagues and friends in the space who helped to refine the draft. Thanks to everyone who contributed to this document! Please feel free to add your names here if you would like to be credited publicly. 
+
+Contributors: 
+@nshadowen314
 
 
 
