@@ -2,13 +2,13 @@
 
 The trust and safety framework outlines high level guidelines for product creators to design and develop products that help users succeed and uphold basic human rights in societies around the world. This is how we build a better internet: by creating products that (1) amplify the good, promoting greater individual autonomy and agency over digital experiences and (2) filter out the bad by actively combatting pervasive harmful practices, such as surveillance, data extraction, and manipulation. 
 
-We are focused on five pillars of integrity in our products: privacy, security, safety, inclusion, and sustainability. Basic descriptions, best practices, and key resources are outlined for each pillar below. For a more detailed, action-oriented resource about *how* to apply these best practices in product design and development, check out our self-assessment checklist.
+We are focused on five pillars in our products: privacy, security, safety, inclusion, and sustainability. Basic descriptions, best practices, and key resources are outlined for each pillar below. For a more detailed, action-oriented resource about *how* to apply these best practices in product design and development, check out our self-assessment checklist.
 
-For more information about the integrity program, check out the [README](https://github.com/MozillaDPX/integrity).
+For more information about the trust and safety program, check out the [README](https://github.com/MozillaDPX/trust/blob/master/README.md).
 
 
 ## using the framework
-If you are new to building for integrity in products and/or trying to learn more, you may find it useful to read through the framework in its entirety. 
+If you are new to building for trust and safety in products and/or trying to learn more, you may find it useful to read through the framework in its entirety. 
 
 For readers with specific questions about one of the pillars, you can find high level descriptions, best practices, and useful resources for each area of experience integrity below (pillars are in no particular priority order). 
 
@@ -20,7 +20,7 @@ If you are a product owner, designer, or developer, you can use the experience i
 * [inclusion](#inclusion)
 * [sustainability](#sustainability)
 
-## integrity  pillars
+## pillars
 
 ### privacy
 In tech, privacy is often used as a synonym for data protection. However, at Mozilla, privacy goes beyond data access and manipulation. Not only do we consider the consequences of providing increasingly integrated tools for people in their lives; we thoughtfully consider the impacts of product decisions on the people and creators who use them through privacy by design.

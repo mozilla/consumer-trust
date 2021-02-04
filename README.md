@@ -6,7 +6,7 @@ Beyond words, public statements, or corporate missions - we believe in demonstra
 
 The challenges that face internet technologies today are complex and intertwined, and no one expert or organization knows all the answers. So we decided to do what we do best - open source the work we've done in this program to understand the problems and ways to address them. We want to work together with YOU our brilliant community of creators, contributors, and consumers of our products, to build a better, safer, more trustworthy internet.
 
-Check out our [framework](https://github.com/MozillaDPX/integrity/blob/master/integrity_toolkit.md) and provide [feedback](https://github.com/MozillaDPX/integrity/issues/new?assignees=&labels=zenhub-prod-integrity&template=toolkit_request.md)!
+Check out our [framework](https://github.com/MozillaDPX/trust/blob/master/tools/trust_framework.md) and provide [feedback](https://github.com/MozillaDPX/integrity/issues/new?assignees=&labels=zenhub-prod-integrity&template=toolkit_request.md)!
 
 
 ## Table of Contents
