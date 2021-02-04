@@ -1,12 +1,12 @@
-# building ethical products
+# building trustworthy products
 
-At Mozilla, we work across product, law, policy, and ethics to design and develop ethical products that help people succeed and uphold basic human rights in societies around the world.
+At Mozilla, we work across product, law, policy, and ethics to design and develop trustworthy products that help people succeed and uphold basic human rights in societies around the world.
 
-Beyond words, public statements, or corporate missions - we believe in demonstrating our commitment to ethics through a measurable and systematic approach to integrity in our products from start to finish. That's why we are creating a program that touches every product at Mozilla and provides a readable integrity summary. This integrity summary will include examples of how we incorporate our main pillars of integrity - privacy, security, safety, inclusion, and sustainability - in our products, and opportunities for creators and consumers to learn from and provide input on those decisions.
+Beyond words, public statements, or corporate missions - we believe in demonstrating our commitment to trust and safety through a measurable and systematic approach in our products from start to finish. That's why we are creating a program that touches every product at Mozilla and provides a readable trust and safety summary. This summary will include examples of how we incorporate our main pillars - privacy, security, safety, inclusion, and sustainability - in our products, and opportunities for creators and consumers to learn from and provide input on those decisions.
 
-The ethical challenges that face internet technologies today are complex and intertwined, and no one expert or organization knows all the answers. So we decided to do what we do best - open source the work we've done in this program to understand the problems and ways to address them. We want to work together with YOU our brilliant community of creators, contributors, and consumers of our products, to do better for us all.
+The challenges that face internet technologies today are complex and intertwined, and no one expert or organization knows all the answers. So we decided to do what we do best - open source the work we've done in this program to understand the problems and ways to address them. We want to work together with YOU our brilliant community of creators, contributors, and consumers of our products, to build a better, safer, more trustworthy internet.
 
-Check out our [toolkit](https://github.com/MozillaDPX/integrity/blob/master/integrity_toolkit.md) and provide [feedback](https://github.com/MozillaDPX/integrity/issues/new?assignees=&labels=zenhub-prod-integrity&template=toolkit_request.md)!
+Check out our [framework](https://github.com/MozillaDPX/integrity/blob/master/integrity_toolkit.md) and provide [feedback](https://github.com/MozillaDPX/integrity/issues/new?assignees=&labels=zenhub-prod-integrity&template=toolkit_request.md)!
 
 
 ## Table of Contents
