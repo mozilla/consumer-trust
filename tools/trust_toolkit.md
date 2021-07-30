@@ -4,7 +4,7 @@
 ### phase 1: design and technical specifications 
 
 What user need(s)/problem(s) does this product solve? 
-Suggested tool(s): stakeholder testing
+<br><i>Suggested tool(s): stakeholder testing
 
 What is the context of this product experience? Who are the stakeholders? 
 Suggested tool(s): stakeholder testing, case based analysis
