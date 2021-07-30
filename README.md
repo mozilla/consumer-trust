@@ -24,10 +24,10 @@ The consumer trust program at Mozilla consists of two main elements:
 ### self-assess
 Use and contribute to our set of easy access resources built to serve internal and external product creators from product owners to user researchers.
 
-1. [toolkit](https://github.com/MozillaDPX/integrity/blob/master/integrity_toolkit.md)
+1. [framework](https://github.com/mozilla/consumer-trust/blob/master/tools/trust_framework.md)
 <br>High level framework for shared terminology, standard best practices, and key resources for experience integrity across Mozilla products.
 
-2. self-assessment checklist
+2. [self-assessment checklist](https://github.com/mozilla/consumer-trust/blob/master/tools/trust_toolkit.md)
 <br>Baseline checklist for primary product stakeholders: product owners, designers, user researchers, and engineers.
 
 3. [resource repository](https://www.zotero.org/groups/2695011/experience_integrity_public/library)
