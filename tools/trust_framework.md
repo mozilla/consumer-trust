@@ -1,4 +1,4 @@
-# trust framework
+# Consumer Trust Framework
 
 ## Transparency
 Clearly communicate the downsides and benefits of use. Provide opportunities to influence and verify change.
@@ -15,6 +15,7 @@ CEOs and other leaders take responsibility for upholding accepted standards in t
 ## Privacy & Security
 Ensure information and interaction culled from use of the product is protected and used only for the stated purpose.
 
+<br><br>
 ##  Background
 This framework has been developed through the combination of findings from user survey data about trust in technology, the mozilla manifesto, subject matter expertise, and industry best practices. It is the third iteration of an effort to identify a trust framework at Mozilla ongoing since H2 2020, with the help of a wide range of expert stakeholders. For a list of the resources reviewed for this work, check out our library [here](https://www.zotero.org/groups/2695011/experience_integrity_public/library).
 
