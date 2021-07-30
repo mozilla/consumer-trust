@@ -15,11 +15,11 @@ Check out our [framework](https://github.com/MozillaDPX/trust/blob/master/tools/
 3. [resources](#resources)
 
 ## program
-The integrity program at Mozilla consists of two main elements: 
+The consumer trust program at Mozilla consists of two main elements: 
 
-1) a semi-automated process in which product researchers, designers, engineers, and managers are empowered to use our resources and process to run integrity evaluations of their product using our set of self-assessment tools (toolkit, checklist, resources).
+1) a semi-automated process in which product researchers, designers, engineers, and managers are empowered to use our resources and process to run trust evaluations of their product using our set of self-assessment tools (toolkit, checklist, resources).
 
-2) For complex challenges, product decisions, and ongoing program resource updates, the integrity program is made up of a team of ethical tech experts, maintains active communities with interested consumers, creators, and community members, as well as regular consultations with the integrity advisory council, made up of subject matter experts in related areas.
+2) For complex challenges, product decisions, and ongoing program resource updates, the consumer trust program is made up of a team of ethical tech experts, maintains active communities with interested consumers, creators, and community members, as well as regular consultations with the integrity advisory council, made up of subject matter experts in related areas.
 
 ### self-assess
 Use and contribute to our set of easy access resources built to serve internal and external product creators from product owners to user researchers.
@@ -31,17 +31,17 @@ Use and contribute to our set of easy access resources built to serve internal a
 <br>Baseline checklist for primary product stakeholders: product owners, designers, user researchers, and engineers.
 
 3. [resource repository](https://www.zotero.org/groups/2695011/experience_integrity_public/library)
-<br>Dynamic database of integrity related resources including industry guidelines, government regulations/frameworks, and academic research.
+<br>Dynamic database of trust related resources including industry guidelines, government regulations/frameworks, and academic research.
 
 ### consult
-For internal teams at Mozilla, the experience integrity team is available to support in investigating product integrity needs that: 
+For internal teams at Mozilla, the experience consumer trust team is available to support in investigating needs that: 
 * are not met through self-assessment process 
 * product teams are not able to complete themselves 
 * require multi-disciplinary and/or ethical expertise
 
-For teams or product creators external to Mozilla and interested in the integrity program, we encourage you to get in touch! We love collaborating with our friends and colleagues across the industry: placeholder_email@mozilla.com. 
+For teams or product creators external to Mozilla and interested in the trust program, we encourage you to get in touch! We love collaborating with our friends and colleagues across the industry: placeholder_email@mozilla.com. 
 
-If you would like to be a participant in integrity at Mozilla, please get in touch! For those who are already Mozillians, become a part of our products for people advocacy group. For those external to the Mozilla community, consider tuning in or joining our advisory council of external experts.
+If you would like to be a participant in consumer trust at Mozilla, please get in touch! For those who are already Mozillians, become a part of our products for people advocacy group. For those external to the Mozilla community, consider tuning in or joining our advisory council of external experts.
 
 
 ## tools
