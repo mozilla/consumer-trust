@@ -1,30 +1,87 @@
 # user trust kit
 
-This kit helps product creators build more trustworthy products and features.
+## Trust checklist
+### phase 1: design and technical specifications 
 
-## phase 01: design and technical specifications
-Product/feature development begins with outlining design and technical specifications as a plan for eventual implementation. By reviewing our plans for trustworthiness at this phase, we can save time and resources by addressing problems earlier rather than later - once the product is built. 
+What user need(s)/problem(s) does this product solve? 
+Suggested tool(s): stakeholder testing
 
-### 1. What user need(s)/problem(s) does this product solve?
-* State in simple, specific terms, as in: A (user role) who feels (negative feeling) about (reason) needs to (step) but faces (obstacle).
-* If you are not sure, USER RESEARCH is needed to better understand your hypothesis and how specific user needs relate.
+What is the context of this product experience? Who are the stakeholders? 
+Suggested tool(s): stakeholder testing, case based analysis
 
-### 2. What are the product’s experience principles?
-* Identify the most important themes for how and why your target audience will use this product
-* If you’re not sure, conduct USER RESEARCH to facilitate this discovery.
+Will the product be damaging to someone or some group? If yes, please state how. If no, please justify why.
+Suggested tool(s): security and privacy risk assessment, ethics evaluation, 
+stakeholder testing, case based analysis
 
-### 3. Will the product prevent harm and abuse? If yes, please state how. If no, please justify why.
-* If you are not sure, consider how the product will touch on security, privacy, and safety concerns using the following steps:
-* Conduct a SECURITY REVIEW to strengthen threat model and security mitigations as well as understand safety concerns.
-* Review Mozilla’s data privacy principles and lean data toolkit for more information.
-Include a reporting mechanism.
+Will the product increase equity? If yes, please state how. If no, please justify why.
+Suggested tool(s): diversity council review, stakeholder testing
 
-### 4. Will the product increase equity? If yes, please state how. If no, please justify why.
-* If you are not sure, receive review of specs by diverse stakeholders including by race, gender, disability, LGBTQIA+, and geographic location.
-* USER RESEARCH may be needed to better understand the nuances of how the product concept might impact social equity.
+Will the product promote the well-being of individuals, communities, and environment? If yes, please state how. If no, please justify why.
+Suggested tool(s): diversity council review, stakeholder testing, ethics 
+evaluation
 
-### 5. Will the product promote the well-being of individuals, communities, and environment? If yes, please state how. If no, please justify why.
-* If you are not sure, please review the user trust framework best practices for sustainability and identify how your product will meet these principles: clean, efficient, open, honest, regenerative, resilient.
+Is someone accountable for upholding accepted standards in the product that will result in positive change?
+    Suggested tool(s): documentation/audit
+
+
+
+
+
+### phase 2: implementation and product deployment
+
+Can a non-technical person understand how the product works and its potential impact on them? (transparency)
+Suggested tool(s): stakeholder testing 
+
+Does the product protect against personal information being stolen or hacked? (security and privacy)
+Suggested tool(s): pen test, documentation/audit
+
+Does the product allow individuals to control their data and personal information? (transparency)
+Suggested tool(s): stakeholder testing
+
+Who is the product for (and not for)? Why? When/how might this change? (equity)
+Suggested tool(s): diversity council review, stakeholder testing
+
+How does the product enable safe social connection? (ethics)
+Suggested tool(s): stakeholder testing, ethical pen test
+
+Does the product incorporate economic incentives to creators, SMB, and mission-aligned behaviors? (ethics)
+Suggested tool(s): stakeholder testing, ethical evaluation, diversity council 
+review
+
+What is the product’s carbon footprint? (ethics)
+Suggested tool(s): carbon footprint calculator
+
+### phase 3: maintenance and updates
+
+Have there been any major security incidents, especially a pattern of similar incidents? (security and privacy)
+Suggested tool(s): incident retrospective, remediation
+
+Is there visibility and control over the flow of data? (security and privacy)
+Suggested tool(s): data inventory
+
+Does the product continue to meet the needs of the stakeholders involved?  (ethics)
+Suggested tool(s): stakeholder testing, ethical evaluation
+
+
+
+<br><br>
+## Tool list
+### Risk assessment/analysis 
+identify vulnerabilities, attackers, system areas
+
+### Pen test, red/blue team 
+Description to be completed here.
+
+### Case based analysis
+review of similar situations/cases
+
+### Post mortem / documentation 
+Description to be completed here.
+
+### Stakeholder testing (feedback, iteration)
+Description to be completed here.
+
+
 
 
 
