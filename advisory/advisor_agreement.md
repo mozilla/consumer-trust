@@ -24,11 +24,7 @@ To be an advisor, you must not work at Mozilla and have at least one of the foll
 #### Integrity advisory council gatherings
 Quarterly, 2 hour long gatherings during which integrity lead will provide an update on integrity at Mozilla, questions for the group, and information exchange for incorporating ethics into product development. 
 
-Dates for 2021:
-* Tuesday March 30, 2021
-* Tuesday June 29, 2021
-* Tuesday September 28, 2021
-* Tuesday December 7, 2021
+
 
 Format: 
 * Advisor update roundtable (30 min)
