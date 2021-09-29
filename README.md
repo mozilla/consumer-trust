@@ -27,7 +27,7 @@ Use and contribute to our set of easy access resources built to serve internal a
 1. [framework](https://github.com/mozilla/consumer-trust/blob/master/tools/trust_framework.md)
 <br>High level framework for shared terminology, standard best practices, and key resources for experience integrity across Mozilla products.
 
-2. [self-assessment checklist](https://github.com/mozilla/consumer-trust/blob/master/tools/trust_toolkit.md)
+2. [toolkit](https://github.com/mozilla/consumer-trust/blob/master/tools/trust_toolkit.md)
 <br>Baseline checklist for primary product stakeholders: product owners, designers, user researchers, and engineers.
 
 3. [resource repository](https://www.zotero.org/groups/2695011/experience_integrity_public/library)
